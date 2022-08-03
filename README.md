@@ -1,11 +1,11 @@
 # Genetic_Sequence_Analysis_Using_DNN
 
 README.TXT
-Karl Dill
-Michael Muruthi
-Farishah Nahrin
-Richard Padilla
-Jibin Prince
+Karl Dill,
+Michael Muruthi,
+Farishah Nahrin,
+Richard Padilla,
+Jibin Prince,
 Jignesh Satam
 
 CS 6375.MU1
