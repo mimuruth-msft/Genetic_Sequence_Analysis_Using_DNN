@@ -12,6 +12,7 @@ CS 6375.MU1
 Term Project:
 
 Instructions to compile code on Google Colab: 
+
 0. Dataset is being read from Github. So, downloading datasets is not required.
 1. First, login to your Gmail account.
 2. Go to this public Google Colab link: INSERT here
