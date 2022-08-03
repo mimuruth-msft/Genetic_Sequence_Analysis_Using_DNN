@@ -20,5 +20,5 @@ Instructions to compile code on Google Colab:
 4. Once Google Colab says it's Connected, go to the Runtime tab at the top left-hand side, then click 'Run All.
 '
 5. It will give you a Warning Module, but click 'Run Anyway' to continue.
-6. After ~2.5 to 3 minutes, my code will compile.
+6. After ~5 minutes, the code will compile.
 Thank you. 
