@@ -1,6 +1,5 @@
 # Genetic_Sequence_Analysis_Using_DNN
 
-README.TXT:
 Karl Dill,
 Michael Muruthi,
 Farishah Nahrin,
